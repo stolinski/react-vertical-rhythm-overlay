@@ -1,6 +1,6 @@
 {
   "name": "react-vertical-rhythm-overlay",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "An overlay for visual spacing.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,17 +11,5 @@
     "url": "https://github.com/stolinski/react-vertical-rhythm-overlay"
   },
   "author": "Scott Tolinski",
-  "license": "ISC",
-  "devDependencies": {
-    "babel-cli": "^6.9.0",
-    "babel-core": "^6.9.1",
-    "babel-preset-es2015": "^6.9.0"
-    },
-    "scripts": {
-      "version": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
-    },
-    "babel": {
-      "presets": ["es2015"]
-    }
-
+  "license": "ISC"
 }
