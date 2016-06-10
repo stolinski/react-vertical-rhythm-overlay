@@ -1,7 +1,5 @@
 # React Vertical Rhythm Overlay
 
-![Example Screenshot](/img/screen.png)
-
 ## Install
     npm install --save react-vertical-rhythm-overlay
 
@@ -37,3 +35,5 @@ Should be any unitless, relative measure of line height. (1, 1.5, 1.234234234234
 ### Sponsored By
 
 [Level Up Tuts](http://leveluptutorials.com/) - [Youtube Channel](https://www.youtube.com/user/LevelUpTuts/)
+
+![Example Screenshot](/img/screen.png)
